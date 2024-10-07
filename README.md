@@ -14,6 +14,10 @@ The input features and structure used for prediction include:
 - **Moving Averages**
 - **Price Differences**
 
+![Alt Text](./images/image.png)
+
+The Blue vertical lines represent the start of forecasting phase
+
 
 ### Conclusion
 After extensive testing, it has become clear that using only prices, moving averages, and price differences as features from the dataset is **insufficient for accurately predicting index prices**, regardless of the deep learning method used. The inherent complexity of financial markets makes it difficult to forecast based on these limited features alone.
