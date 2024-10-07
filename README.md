@@ -30,7 +30,7 @@ Among the models tested, the **MLP** yielded the best results in terms of minimi
 
 ## Repository Contents
 - `CSV files/` : The dataset used for training and testing.
-- `* Model(s)/` : Contains the model architectures for MLP, CNN1D, and LSTM.
+- `* Model(s)/` : Contains the differentf models. 
 - `notebooks` : Jupyter notebooks showcasing the experiments and results.
 - `results` : Logs and performance metrics for each model.
 
