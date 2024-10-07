@@ -19,7 +19,7 @@ The input features and structure used for prediction include:
 The Blue vertical lines represent the start of forecasting phase
 
 
-### Conclusion
+### Results
 After extensive testing, it has become clear that using only prices, moving averages, and price differences as features from the dataset is **insufficient for accurately predicting index prices**, regardless of the deep learning method used. The inherent complexity of financial markets makes it difficult to forecast based on these limited features alone.
 
 Among the models tested, the **MLP** yielded the best results in terms of minimizing the Mean Squared Error (MSE) loss during forecasting. However, even the MLP's performance was inadequate for practical use.
