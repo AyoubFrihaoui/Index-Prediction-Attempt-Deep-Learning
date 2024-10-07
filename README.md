@@ -37,3 +37,7 @@ Among the models tested, the **MLP** yielded the best results in terms of minimi
 ## Conclusion
 This project serves as a learning experience in deep learning techniques applied to financial data, but the results underscore the limitations of using basic price-based features for stock index forecasting. Future work should explore more sophisticated features and models to tackle this challenging problem.
 
+Some of the techniques to explore:
+- XGBoost
+- Deep Reinforcement Learning
+- ARIMA (AutoRegressive Integrated Moving Average)
